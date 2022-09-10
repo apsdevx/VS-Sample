@@ -1,0 +1,14 @@
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\bin\Debug\netcoreapp3.1\VS-Sample-1.exe
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\bin\Debug\netcoreapp3.1\VS-Sample-1.deps.json
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\bin\Debug\netcoreapp3.1\VS-Sample-1.runtimeconfig.json
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\bin\Debug\netcoreapp3.1\VS-Sample-1.runtimeconfig.dev.json
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\bin\Debug\netcoreapp3.1\VS-Sample-1.dll
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\bin\Debug\netcoreapp3.1\VS-Sample-1.pdb
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\obj\Debug\netcoreapp3.1\VS-Sample-1.csproj.AssemblyReference.cache
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\obj\Debug\netcoreapp3.1\VS-Sample-1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\obj\Debug\netcoreapp3.1\VS-Sample-1.AssemblyInfoInputs.cache
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\obj\Debug\netcoreapp3.1\VS-Sample-1.AssemblyInfo.cs
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\obj\Debug\netcoreapp3.1\VS-Sample-1.csproj.CoreCompileInputs.cache
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\obj\Debug\netcoreapp3.1\VS-Sample-1.dll
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\obj\Debug\netcoreapp3.1\VS-Sample-1.pdb
+F:\Developers-HandsOn\PS-GitHub-Practice\Git-2-10Sept22\VS-Sample\VS-Sample-1\VS-Sample-1\obj\Debug\netcoreapp3.1\VS-Sample-1.genruntimeconfig.cache
