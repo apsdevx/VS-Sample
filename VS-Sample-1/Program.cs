@@ -6,7 +6,7 @@ namespace VS_Sample_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello my World!");
+            Console.WriteLine("Hello Friends, please have a look into my World!");
         }
     }
 }
